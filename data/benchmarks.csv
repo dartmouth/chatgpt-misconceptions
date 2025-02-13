@@ -1,0 +1,7 @@
+Model,Benchmark,Performance,Cost per 1M output tokens
+GPT 4,MMLU,86.4,10
+GPT 4o,MMLU,88.7,10
+GPT o1,MMLU,92.3,60
+GPT o1 mini,MMLU,85.2,4.40
+GPT 4o mini,MMLU,82,0.60
+GPT o3 mini,MMLU,86.9,4.40
